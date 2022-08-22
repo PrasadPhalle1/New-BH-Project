@@ -1,0 +1,281 @@
+[INFO ] 2022-08-17 10:22:03.702 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 10:22:20.272 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:22:23.313 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 10:22:24.960 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:22:31.317 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:22:37.655 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:22:44.648 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:22:46.388 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 10:22:59.168 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:23:02.193 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 10:23:03.915 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:23:07.300 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:23:18.895 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:23:22.781 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:23:22.782 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 10:23:35.866 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:23:38.884 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 10:23:40.836 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:23:44.672 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:23:58.093 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:24:00.142 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 10:24:00.202 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:24:00.234 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:24:00.234 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 10:24:00.240 [main] Log - myInfoTest test is failed.
+[INFO ] 2022-08-17 10:24:00.244 [main] Log - I am in on Finish TestRun
+[INFO ] 2022-08-17 10:25:01.858 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 10:25:14.041 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:25:17.093 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 10:25:19.086 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:25:25.709 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:25:33.913 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:25:40.406 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 10:25:42.140 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 10:25:55.216 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:25:58.248 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 10:25:59.914 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:26:03.934 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:26:14.147 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:26:17.893 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:26:17.893 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 10:26:32.190 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:26:35.212 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 10:26:41.271 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:26:45.598 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:26:54.043 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:26:57.402 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 10:27:00.566 [main] Log - Verified Full Name.
+[INFO ] 2022-08-17 10:27:02.518 [main] Log - Verified Phone.
+[INFO ] 2022-08-17 10:27:04.937 [main] Log - Verified Email.
+[INFO ] 2022-08-17 10:27:06.955 [main] Log - Verified Home Address.
+[INFO ] 2022-08-17 10:27:08.039 [main] Log - Verified Shipping Address.
+[INFO ] 2022-08-17 10:27:08.971 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:27:10.743 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:27:10.743 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 10:27:24.624 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:27:27.651 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 10:27:29.416 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:27:36.616 [main] Log - exampleFailedTest test is skipped.
+[INFO ] 2022-08-17 10:27:49.822 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:27:52.849 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 10:27:54.502 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:28:01.192 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 10:28:13.931 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:28:16.956 [main] Log - chatEnableFieldTest test is starting.
+[INFO ] 2022-08-17 10:28:18.972 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:28:23.668 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:28:30.677 [main] Log - Clicked on Chat Bubble.
+[INFO ] 2022-08-17 10:28:34.000 [main] Log - Clicked on Tech Support button.
+[INFO ] 2022-08-17 10:28:41.788 [main] Log - Clicked and entered data in to chat field.
+[INFO ] 2022-08-17 10:28:47.333 [main] Log - Clicked on back arrow.
+[INFO ] 2022-08-17 10:28:50.293 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:28:53.064 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:28:53.064 [main] Log - chatEnableFieldTest test is succeed.
+[INFO ] 2022-08-17 10:29:06.471 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 10:29:09.501 [main] Log - checkPermissionToggleOff test is starting.
+[INFO ] 2022-08-17 10:29:11.161 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 10:29:14.791 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 10:29:23.981 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:29:27.947 [main] Log - Clicked on setting and Permissions.
+[INFO ] 2022-08-17 10:29:32.336 [main] Log - Clicked on toggle button to OFF Therapy Group Reminders.
+[INFO ] 2022-08-17 10:29:36.350 [main] Log - Clicked on toggle button to OFF Support Group Reminders.
+[INFO ] 2022-08-17 10:29:40.732 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 10:29:42.676 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 10:29:42.676 [main] Log - checkPermissionToggleOff test is succeed.
+[INFO ] 2022-08-17 10:29:44.128 [main] Log - I am in on Finish TestRun
+[INFO ] 2022-08-17 11:15:41.157 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 11:15:53.489 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:15:56.545 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 11:15:58.368 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:16:04.672 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:16:11.720 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:16:18.898 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:16:20.635 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 11:16:33.993 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:16:37.014 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 11:16:40.116 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:16:44.183 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 11:17:15.935 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:17:18.720 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 11:17:18.720 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 11:17:31.648 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:17:34.678 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 11:17:36.512 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:17:40.459 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 11:17:49.537 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:17:53.366 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 11:17:56.613 [main] Log - Verified Full Name.
+[INFO ] 2022-08-17 11:17:58.341 [main] Log - Verified Phone.
+[INFO ] 2022-08-17 11:17:59.733 [main] Log - Verified Email.
+[INFO ] 2022-08-17 11:18:01.024 [main] Log - Verified Home Address.
+[INFO ] 2022-08-17 11:18:02.997 [main] Log - Verified Shipping Address.
+[INFO ] 2022-08-17 11:18:04.800 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:18:07.216 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 11:18:07.216 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 11:18:20.238 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:18:23.268 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 11:18:26.507 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:18:34.890 [main] Log - exampleFailedTest test is skipped.
+[INFO ] 2022-08-17 11:18:48.127 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:18:51.151 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 11:18:52.837 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:18:58.843 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 11:18:59.651 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 11:18:59.661 [main] Log - I am in on Finish TestRun
+[INFO ] 2022-08-17 11:30:36.564 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 11:30:49.305 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:30:52.342 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 11:30:54.148 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:31:01.020 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:31:08.924 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:31:15.763 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 11:31:17.571 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 11:31:30.238 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:31:33.259 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 11:31:35.427 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:31:39.347 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 11:31:50.019 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:31:52.354 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 11:31:52.354 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 11:32:05.445 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:32:08.472 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 11:32:10.076 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:32:14.180 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 11:32:23.398 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:32:26.395 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 11:32:29.262 [main] Log - Verified Full Name.
+[INFO ] 2022-08-17 11:32:30.560 [main] Log - Verified Phone.
+[INFO ] 2022-08-17 11:32:32.320 [main] Log - Verified Email.
+[INFO ] 2022-08-17 11:32:34.346 [main] Log - Verified Home Address.
+[INFO ] 2022-08-17 11:32:35.713 [main] Log - Verified Shipping Address.
+[INFO ] 2022-08-17 11:32:37.484 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:32:40.579 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 11:32:40.579 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 11:32:53.559 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:32:56.582 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 11:32:58.307 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:33:06.695 [main] Log - exampleFailedTest test is skipped.
+[INFO ] 2022-08-17 11:33:19.924 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:33:22.944 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 11:33:24.884 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:33:33.409 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 11:33:46.216 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 11:33:49.242 [main] Log - chatEnableFieldTest test is starting.
+[INFO ] 2022-08-17 11:33:50.776 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 11:33:54.293 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 11:34:00.160 [main] Log - Clicked on Chat Bubble.
+[INFO ] 2022-08-17 11:34:00.192 [main] Log - Clicked on Tech Support button.
+[INFO ] 2022-08-17 11:34:00.295 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 11:34:00.326 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 11:34:00.327 [main] Log - chatEnableFieldTest test is succeed.
+[INFO ] 2022-08-17 11:34:00.339 [main] Log - chatEnableFieldTest test is failed.
+[INFO ] 2022-08-17 11:34:00.349 [main] Log - I am in on Finish TestRun
+[INFO ] 2022-08-17 12:45:49.531 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 12:46:03.663 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:46:06.711 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 12:46:08.296 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:46:14.385 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 12:46:21.351 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 12:46:28.985 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 12:46:30.729 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 12:46:44.328 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:46:47.347 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 12:46:48.947 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:46:52.747 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 12:47:03.401 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 12:47:05.561 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 12:47:05.561 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 12:47:18.269 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:47:21.290 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 12:47:32.057 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:47:36.188 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 12:47:46.188 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 12:47:49.353 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 12:47:52.183 [main] Log - Verified Full Name.
+[INFO ] 2022-08-17 12:47:54.206 [main] Log - Verified Phone.
+[INFO ] 2022-08-17 12:47:55.624 [main] Log - Verified Email.
+[INFO ] 2022-08-17 12:47:57.042 [main] Log - Verified Home Address.
+[INFO ] 2022-08-17 12:47:58.229 [main] Log - Verified Shipping Address.
+[INFO ] 2022-08-17 12:48:04.997 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 12:48:06.751 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 12:48:06.751 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 12:48:19.451 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:48:22.478 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 12:48:24.197 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:48:31.215 [main] Log - exampleFailedTest test is skipped.
+[INFO ] 2022-08-17 12:48:43.304 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:48:46.327 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 12:48:48.266 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:48:54.962 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 12:49:07.668 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 12:49:10.694 [main] Log - chatEnableFieldTest test is starting.
+[INFO ] 2022-08-17 12:49:12.429 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 12:49:17.951 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 12:49:20.206 [main] Log - Clicked on Chat Bubble.
+[INFO ] 2022-08-17 12:49:20.251 [main] Log - Clicked on Tech Support button.
+[INFO ] 2022-08-17 12:49:25.351 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 12:49:25.381 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 12:49:25.381 [main] Log - chatEnableFieldTest test is succeed.
+[INFO ] 2022-08-17 12:49:25.386 [main] Log - chatEnableFieldTest test is failed.
+[INFO ] 2022-08-17 12:49:25.390 [main] Log - I am in on Finish TestRun
+[INFO ] 2022-08-17 13:08:11.902 [main] Log - I am in on Start TestRun
+[INFO ] 2022-08-17 13:08:25.308 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:08:28.353 [main] Log - InvalidLoginCredentialsTest test is starting.
+[INFO ] 2022-08-17 13:08:36.778 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:08:43.104 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 13:08:50.420 [main] Log - Verified Invalid Login Credentials by providing wrongPhone and correctPassword and clicking on Login button.
+[INFO ] 2022-08-17 13:08:57.516 [main] Log - Verified Invalid Login Credentials by providing correctPhone and wrongPassword and clicking on Login button.
+[INFO ] 2022-08-17 13:08:59.309 [main] Log - InvalidLoginCredentialsTest test is succeed.
+[INFO ] 2022-08-17 13:09:11.612 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:09:14.644 [main] Log - loginAndLogoutTest test is starting.
+[INFO ] 2022-08-17 13:09:17.198 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:09:21.504 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 13:09:29.910 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:09:32.903 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 13:09:32.904 [main] Log - loginAndLogoutTest test is succeed.
+[INFO ] 2022-08-17 13:09:45.555 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:09:48.574 [main] Log - myInfoTest test is starting.
+[INFO ] 2022-08-17 13:09:51.156 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:09:55.269 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 13:10:06.532 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:10:11.923 [main] Log - Clicked on My Info.
+[INFO ] 2022-08-17 13:10:13.882 [main] Log - Verified Full Name.
+[INFO ] 2022-08-17 13:10:15.801 [main] Log - Verified Phone.
+[INFO ] 2022-08-17 13:10:17.100 [main] Log - Verified Email.
+[INFO ] 2022-08-17 13:10:19.029 [main] Log - Verified Home Address.
+[INFO ] 2022-08-17 13:10:20.837 [main] Log - Verified Shipping Address.
+[INFO ] 2022-08-17 13:10:27.781 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:10:29.826 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 13:10:29.826 [main] Log - myInfoTest test is succeed.
+[INFO ] 2022-08-17 13:10:43.113 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:10:46.134 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 13:10:56.875 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:11:04.782 [main] Log - exampleFailedTest test is skipped.
+[INFO ] 2022-08-17 13:11:16.934 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:11:19.959 [main] Log - exampleFailedTest test is starting.
+[INFO ] 2022-08-17 13:11:22.563 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:11:28.907 [main] Log - exampleFailedTest test is failed.
+[INFO ] 2022-08-17 13:11:41.699 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:11:44.729 [main] Log - chatEnableFieldTest test is starting.
+[INFO ] 2022-08-17 13:11:47.338 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:11:51.097 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 13:12:00.572 [main] Log - Clicked on Chat Bubble.
+[INFO ] 2022-08-17 13:12:04.327 [main] Log - Clicked on Tech Support button.
+[INFO ] 2022-08-17 13:12:16.976 [main] Log - Clicked and entered data in to chat field.
+[INFO ] 2022-08-17 13:12:22.075 [main] Log - Clicked on back arrow.
+[INFO ] 2022-08-17 13:12:28.443 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:12:31.180 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 13:12:31.180 [main] Log - chatEnableFieldTest test is succeed.
+[INFO ] 2022-08-17 13:12:44.224 [main] Log - Bicycle Health Application started.....
+[INFO ] 2022-08-17 13:12:47.250 [main] Log - checkPermissionToggleOff test is starting.
+[INFO ] 2022-08-17 13:12:49.828 [main] Log - Clicked on first Login button.
+[INFO ] 2022-08-17 13:12:53.573 [main] Log - Provided valid login credentials and clicked on Login.
+[INFO ] 2022-08-17 13:13:01.740 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:13:04.841 [main] Log - Clicked on setting and Permissions.
+[INFO ] 2022-08-17 13:13:09.642 [main] Log - Clicked on toggle button to OFF Therapy Group Reminders.
+[INFO ] 2022-08-17 13:13:15.450 [main] Log - Clicked on toggle button to OFF Support Group Reminders.
+[INFO ] 2022-08-17 13:13:24.436 [main] Log - Clicked on Resources.
+[INFO ] 2022-08-17 13:13:26.374 [main] Log - Clicked on Logout.
+[INFO ] 2022-08-17 13:13:26.374 [main] Log - checkPermissionToggleOff test is succeed.
+[INFO ] 2022-08-17 13:13:28.352 [main] Log - I am in on Finish TestRun
